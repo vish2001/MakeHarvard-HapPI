@@ -22,6 +22,8 @@ Time management and resource management were two very important things that we l
 What's next for hapPI
 We will implement a chatbot that would be able to update the user about the status of the plant. An option to water the plants through the app will also be implemented if the user is not able to reach his plants in time. The user will also be able to request updates whenever he feels so. We plan on implementing an ML-based model to identify exactly which type of plant is being dealt with so that the parameters can be judged accordingly to sense the emotion of the plant. We have also planned to move from a web app to a complete UI/UX based android app which would be working on the google firebase data.
 
-Design of the mobile app
+Design of the mobile app:
+![image](https://user-images.githubusercontent.com/55589910/152401016-aa04b5e4-0e85-426e-9d26-21b619aa426a.png)
+
 https://www.figma.com/file/AG28B2XVUcUPH9Psu2onsM/Make-Harvard-Project-HapPI?node-id=0%3A1
 
